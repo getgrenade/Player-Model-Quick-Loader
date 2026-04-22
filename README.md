@@ -11,9 +11,14 @@ Animations are limited to Stand, Crouch, runN and few taunts.
 3. **Set the Path:** Find the addon in your preferences, expand the settings, and point the **TF2 Assets Blend File** path to where you saved the `.blend` file.
 
 ## Usage
-Press **Shift + A** in the 3D Viewport and look for the **TF2 Player Models** menu!
-https://github.com/user-attachments/assets/6b74dbf4-f674-4ba8-b631-f665fd4a1425
 
-To access animations, open Dope Sheet, change it to Action Editor and select desired sequence. Enable Pose Mode. 
-https://github.com/user-attachments/assets/6df2a9bd-d638-49e7-827d-311767ef966e
+### Spawning Mercs
+Press **Shift + A** in the 3D Viewport and look for the **TF2 Player Models** menu!
+
+<video src="https://github.com/user-attachments/assets/6b74dbf4-f674-4ba8-b631-f665fd4a1425" width="100%" controls autoplay loop muted></video>
+
+### Accessing Animations
+To access animations, open the **Dope Sheet**, change it to the **Action Editor**, and select your desired sequence. Enable **Pose Mode**.
+
+<video src="https://github.com/user-attachments/assets/6df2a9bd-d638-49e7-827d-311767ef966e" width="100%" controls autoplay loop muted></video>
 
