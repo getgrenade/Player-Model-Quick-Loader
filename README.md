@@ -1,9 +1,9 @@
-# TF2 Asset Quick Loader
+# Player Model Quick Loader
 
 A Blender addon to quickly spawn Team Fortress 2 player models with materials, shape keys, animations and LoDs directly from the Shift+A menu.
 
 ## Installation
-1. **Download the Files:** Go to the [Latest Release](link-to-your-release-page) and download:
+1. **Download the Files:** Go to the [Latest Release](https://github.com/getgrenade/Player-Model-Quick-Loader/releases/tag/1.0) and download:
    - `player_model_quick_loader_v1.0.zip` (The Addon)
    - `tf2_player_models.blend` (The Asset Library)
 2. **Install the Addon:** In Blender, go to `Edit > Preferences > Add-ons > Install` and select the `.zip` file.
