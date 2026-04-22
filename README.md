@@ -15,10 +15,10 @@ Animations are limited to Stand, Crouch, runN and few taunts.
 ### Spawning Mercs
 Press **Shift + A** in the 3D Viewport and look for the **TF2 Player Models** menu!
 
-<video src="https://github.com/user-attachments/assets/6b74dbf4-f674-4ba8-b631-f665fd4a1425" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/6b74dbf4-f674-4ba8-b631-f665fd4a1425" width="50%" controls autoplay loop muted></video>
 
 ### Accessing Animations
 To access animations, open the **Dope Sheet**, change it to the **Action Editor**, and select your desired sequence. Enable **Pose Mode**.
 
-<video src="https://github.com/user-attachments/assets/6df2a9bd-d638-49e7-827d-311767ef966e" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/6df2a9bd-d638-49e7-827d-311767ef966e" width="50%" controls autoplay loop muted></video>
 
