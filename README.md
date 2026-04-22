@@ -1,4 +1,5 @@
 # Player Model Quick Loader
+Requires Blender 4.5 or higher!
 
 A Blender addon to quickly spawn Team Fortress 2 player models with materials, shape keys, animations and LoDs directly from the Shift+A menu. 
 Animations are limited to Stand, Crouch, runN and few taunts.
