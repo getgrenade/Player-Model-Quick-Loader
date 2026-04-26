@@ -5,7 +5,7 @@ A Blender addon to quickly spawn Team Fortress 2 player models with materials, s
 Animations are limited to Stand, Crouch, runN, A Pose and few taunts.
 
 ## Installation
-1. **Download the Files:** Go to the [Latest Release](https://github.com/getgrenade/Player-Model-Quick-Loader/releases/tag/1.0) and download:
+1. **Download the Files:** Go to the [Latest Release](https://github.com/getgrenade/Player-Model-Quick-Loader/releases/tag/1.1) and download:
    - `player_model_quick_loader_v1.1.zip` (The Addon)
    - `tf2_player_models.blend` (The Asset Library)
    - `tf2_player_models_clean.blend` (The Asset Library)
